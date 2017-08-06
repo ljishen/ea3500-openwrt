@@ -1,6 +1,8 @@
 # ea3500-openwrt
 
-HOME | OpenWRT firmware
+Configuration File and System Backup for **Linksys EA3500** router
+
+##### HOME | OpenWRT firmware
 https://wiki.openwrt.org/toh/linksys/ea3500
 
 ##### WebUI Setup
