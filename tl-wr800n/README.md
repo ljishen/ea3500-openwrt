@@ -3,6 +3,7 @@
 This configuration file are used for setting up this router in Repeater Mode by connecting to a [Google Wifi](https://madeby.google.com/wifi/) as the main router.
 
 #### Router Information
+- Hardware Version: `WR800N 2.0`
 - Product Page: http://www.tp-link.com.cn/product_229.html
 - Hardware Spec: https://wiki.openwrt.org/toh/tp-link/tl-wr800n
 
