@@ -3,8 +3,9 @@
 I have installed [OpenWrt](https://wiki.openwrt.org/toh/linksys/ea3500) on this router and configurated this router as a [Repeater/Extender](https://wiki.openwrt.org/doc/recipes/relayclient) to my [Google WiFi](https://madeby.google.com/wifi/). All the configurations and backups in this folder are corresponding to this setting.
 
 #### Login
-- WebUI (LuCI): `https://192.168.1.1` (username `root` without password)
+- WebUI (LuCI): [`https://192.168.1.1`](https://192.168.1.1) (username `root` without password)
 - SSH: `ssh root@192.168.1.1` (no password)
+- Wireless: `OpenWrt` (Key: passw0rd)
 
 #### Router Techdata
 https://wiki.openwrt.org/toh/hwdata/linksys/linksys_ea3500
