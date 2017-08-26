@@ -5,7 +5,7 @@ I have installed [OpenWrt](https://wiki.openwrt.org/toh/linksys/ea3500) on this 
 #### Login
 - WebUI (LuCI): [`https://192.168.1.1`](https://192.168.1.1) (username `root` without password)
 - SSH: `ssh root@192.168.1.1` (no password)
-- Wireless: `OpenWrt` (Key: passw0rd)
+- Wireless: `OpenWrt` (Key: `passw0rd`)
 
 #### Router Techdata
 https://wiki.openwrt.org/toh/hwdata/linksys/linksys_ea3500
